@@ -1,0 +1,22 @@
+.clear{
+height: 40px;
+font-size: 20px;
+display: flex;
+flex: 1;
+justify-content: center;
+align-items: center;
+margin-top: 6px;
+cursor: pointer;
+background-color: rgb(248, 32, 32);
+border-radius: 20px;
+border: black solid 2px;
+color: white;
+font-weight: bold;
+user-select: none;
+font-size: 20px;
+}
+.clear:hover{
+font-size: 25px;
+font-weight: bolder;
+background-color: rgb(187, 2, 2);
+}
